@@ -127,12 +127,4 @@ Treat this repository as a launch point — you can build, expand, or even pivot
 
 ---
 
-If you like, I can also **generate boilerplate documentation** (e.g. CONTRIBUTING.md, Architecture.md, or a detailed user manual) for you to include in the GitHub repo — do you want me to do that?
 
-[1]: https://personal-uddw8xap.outsystemscloud.com/Pingganan/Home?_ts=639001145008266027 "personal-uddw8xap.outsystemscloud.com"
-[2]: https://www.infomax.com.ph/products-and-solutions/outsystems?utm_source=chatgpt.com "OutSystems Low-Code App Development Platform"
-[3]: https://www.outsystems.com/evaluation-guide/product/outsystems-cloud-services/?utm_source=chatgpt.com "OutSystems Cloud Services | Evaluation Guide | OutSystems"
-[4]: https://wilsonmar.github.io/outsystems/?utm_source=chatgpt.com "Outsystems – Index"
-[5]: https://www.softwareadvice.com/paas/outsystems-profile/reviews/?utm_source=chatgpt.com "OutSystems Reviews, Pros and Cons - 2025 Software Advice"
-[6]: https://www.reddit.com/r/OutSystems/comments/1afuhy7?utm_source=chatgpt.com "Month's Work Lost on OutSystems: Deleted unexpectedly without warning during a misunderstood merge procedure"
-[7]: https://techday.fptsoftware.com/-/media/Project/FPT-Software/Techday/Exhibition/os-overview-apac-en-digital_FPT?utm_source=chatgpt.com "WELCOME TO"
